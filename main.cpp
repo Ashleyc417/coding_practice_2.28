@@ -1,23 +1,23 @@
 #include <iostream>
 #include "geometry_calculator.h"
-#include "geometry_calculator.cc"
+#include "geometry_calculator.cpp"
 
 using namespace std;
 
 int main()
 {
-    /* 
-    First we need to Declare some variables for later use. These are what we need:
-    Type: double
-        - Rectangle: length, width
-        - Circle: radius
-        - Triangle: side1, side2, side3
-    
-    Type: int
-        - dividend
-        - divisor
+    /**
+     * First we need to Declare some variables for later use. These are what we need:
+     * Type: double
+     *    - Rectangle: length, width
+     *    - Circle: radius
+     *    - Triangle: side1, side2, side3
+     * Type: int
+     *    - dividend
+     *    - divisor
     */
-    // TODO: Declare Variables
+
+    // TODO: Declare Variables Here!
 
 
 
