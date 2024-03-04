@@ -3,7 +3,8 @@
 
 using namespace std;
 
-int main() {
+int main()
+{
   /**
    * First we need to Declare some variables for later use. These are what we
    * need: Type: double
