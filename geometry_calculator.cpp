@@ -17,6 +17,9 @@ double calculateCircleCircumference(double radius)
      * TODO: Add an if statement to check if radius is greater than zero
      * If it's greater than zero, calculate and return the circumference
      * Otherwise, print an error message and return -1
+     *
+     * Tip: M_PI is a constant representing pi
+     * (There's no need to declare or intialize it)
      */
 }
 
@@ -30,7 +33,7 @@ double calculateTrianglePerimeter(double side1, double side2, double side3)
      */
 }
 
-/**
+/*
  * Tips:
  * dividend = number
  * divisor = what dividend is being divided by
